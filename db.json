@@ -1,19 +1,23 @@
 {
-  "posts": [
+  "cars": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "brand": "Tata",
+      "year": "2002",
+      "type": "Auto",
+      "kms": "21000",
+      "Description": "High milage",
+      "Price": "2100000",
+      "id": 1
+    },
+    {
+      "brand": "Maruti",
+      "year": "2002",
+      "type": "Manual",
+      "kms": "15000",
+      "Description": "Hig",
+      "Price": "",
+      "id": 2
     }
   ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "wishlisted_cars": []
 }
