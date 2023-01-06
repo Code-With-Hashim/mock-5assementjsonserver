@@ -1,23 +1,4 @@
 {
-  "cars": [
-    {
-      "brand": "Tata",
-      "year": "2002",
-      "type": "Auto",
-      "kms": "21000",
-      "Description": "High milage",
-      "Price": "2100000",
-      "id": 1
-    },
-    {
-      "brand": "Maruti",
-      "year": "2002",
-      "type": "Manual",
-      "kms": "15000",
-      "Description": "Hig",
-      "Price": "",
-      "id": 2
-    }
-  ],
+  "cars": [],
   "wishlisted_cars": []
 }
