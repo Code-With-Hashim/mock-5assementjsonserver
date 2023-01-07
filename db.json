@@ -1,15 +1,6 @@
 {
   "cars": [],
   "wishlisted_cars": [],
-  "users": [
-    {
-      "id" : 1,
-      "cnfPass": "hashim1244",
-      "email": "hashim.khan83029@gmail.com",
-      "password": "hashim1244",
-      "taskList": [],
-      "username": "code-with-hashim"
-    }
-  ],
+  "users": [],
   "userTask" : []
 }
