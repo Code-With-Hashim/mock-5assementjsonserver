@@ -2,5 +2,21 @@
   "cars": [],
   "wishlisted_cars": [],
   "users": [],
-  "userTask" : []
+  "userTask": [
+    {
+      "username": "code-with-hashim",
+      "task": "normal function is working",
+      "id": 1
+    },
+    {
+      "task": "gogo",
+      "id": 4
+    },
+    {
+      "username": "vamshi132",
+      "task": "world",
+      "id": 5
+    }
+  ],
+  "dogs" : []
 }
